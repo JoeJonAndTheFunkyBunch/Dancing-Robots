@@ -1,3 +1,5 @@
+//upload this sketch to all of your esp32 to get there mac address
+
 #include "WiFi.h"
  
 void setup(){
