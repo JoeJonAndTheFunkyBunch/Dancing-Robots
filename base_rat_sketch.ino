@@ -1,6 +1,6 @@
 
 //this is the basic code to make sure two of the dancing robots(rats) work together with the esp-now and spiffs libraries 
-
+//P.S you need to download all the included libraries to your arduino IDE for everything to work smoothly
 #include "AiEsp32RotaryEncoder.h"
 #include "Arduino.h"
 #include "FS.h"
