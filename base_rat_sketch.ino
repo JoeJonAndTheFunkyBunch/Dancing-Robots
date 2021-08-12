@@ -67,8 +67,9 @@ typedef struct
 int currentMove = 0;
 dance_move_type dance_moves[1000];
 //EspNow
-// change the X's with your mac address(adjust for each board)
-uint8_t broadcastAddress[] = {0xX,0xX,0x28,0xX,0xX,0xX};
+// exchange the X's with each boards mac address(for example:{0x3F,0x56,0x4T,0x6G,0x5J,0x6Y})
+G
+uint8_t broadcastAddress[] = {0xX,0xX,0xX,0xX,0xX,0xX};
 //variables to store incoming readings
 int pan;
 int tilt;
